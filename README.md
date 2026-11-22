@@ -1,7 +1,11 @@
 # Solmar Heat
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Ianfield77/solmar-heat-3d-/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-01/Ianfield77/solmar-heat-3d-/reward.svg)](https://make.fun/bounty/gta6-01)
+
 An original open-world crime game in the spirit of GTA 6, built for the
-make.fun **gta6-01 "Make GTA 6"** bounty. It runs offline in a desktop
+[make.fun **gta6-01 "Make GTA 6"** bounty](https://make.fun/bounty/gta6-01). It runs offline in a desktop
 browser from static files — no network requests, no build step. Three.js is
 vendored under `game/vendor/`.
 
